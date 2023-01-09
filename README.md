@@ -1,2 +1,2 @@
-Michelle Liu
+Michelle Liu liumichelle
 # uchicago-cs-git-tutorial
